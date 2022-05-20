@@ -1,6 +1,6 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Mer, a back-end developer from China. For now I'm focus on cephfs.
+I'm Mer, a back-end developer from China, focus on cephfs.
 
 **Languages and Tools:**
 
