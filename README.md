@@ -1,6 +1,6 @@
 Hey there
 
-I'm Mer, a back-end developer from China, focus on cephfs.
+I'm Mer, a back-end developer.
 
 **Languages and Tools:**
 
