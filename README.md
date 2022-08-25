@@ -1,14 +1,17 @@
-Hey there
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FMer1997&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Mer1997)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mer1997.Mer1997&left_color=282c34&right_color=181717)
 
-I'm Mer, a back-end developer.
+```
+Hi, I'm Mer! A back-end developer✨
+```
 
-**Languages and Tools:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+![Metrics](https://metrics.lecoq.io/Mer1997?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&introduction=false&introduction.title=false&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai)
+
+[![Mer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mer1997&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,docker,vim)](https://skillicons.dev)
-
-**my github stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mer1997&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
 <!---
 Mer1997/Mer1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
