@@ -11,8 +11,10 @@ Hi, I'm Mer! A back-end developer✨
 
 [![Mer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mer1997&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,docker,vim)](https://skillicons.dev)
-  
+--->
+
 <!---
 Mer1997/Mer1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
