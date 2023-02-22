@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mer1997.Mer1997&left_color=282c34&right_color=181717)
 
 ```
-Hi, I'm Mer! A back-end developer✨
+Hi, I'm Mer! A c++ developer from China✨
 ```
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -10,12 +10,3 @@ Hi, I'm Mer! A back-end developer✨
 ![Metrics](https://metrics.lecoq.io/Mer1997?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&introduction=false&introduction.title=false&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
 [![Mer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mer1997&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,docker,vim)](https://skillicons.dev)
---->
-
-<!---
-Mer1997/Mer1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
